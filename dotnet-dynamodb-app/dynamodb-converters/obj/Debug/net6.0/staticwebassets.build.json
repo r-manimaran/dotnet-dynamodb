@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "I1Rli9dLwCF35hnMgJ/CJubg2TL+xzOGqZzro/Q2hl0=",
+  "Source": "dynamodb-converters",
+  "BasePath": "_content/dynamodb-converters",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

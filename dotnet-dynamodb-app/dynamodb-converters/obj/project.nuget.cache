@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "yL6HM5J4W4aix3gIK6fOoL9u0ylawr/8wnmZa8i5+bQBnkXcNv1VI4c6GyKRcd0ACkVRAPnyQBybcAYZGxC0AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Maran\\StudyMaterials\\Git\\AWS\\aws-dotnet-api\\dotnet-dynamodb-app\\dynamodb-converters\\dynamodb-converters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darshan\\.nuget\\packages\\awssdk.core\\3.7.105.10\\awssdk.core.3.7.105.10.nupkg.sha512",
+    "C:\\Users\\Darshan\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.101.52\\awssdk.dynamodbv2.3.7.101.52.nupkg.sha512",
+    "C:\\Users\\Darshan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Darshan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Darshan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
+    "C:\\Users\\Darshan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Darshan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Darshan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Darshan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
