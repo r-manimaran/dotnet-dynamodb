@@ -19,4 +19,6 @@ public class WeatherForecast
     //the same enum type is used in another entity that will be used.
    // [DynamoDBProperty(Converter = typeof(WeatherTypeDynamoDbConverter))]
     public WeatherType WeatherType { get; set; }
+
+    public DateTime LastUpdated { get;set;}
 }
